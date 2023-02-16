@@ -2,3 +2,5 @@
 *.json
 *.csv
 info.txt
+create_snapshot.py
+edit_portfolio.py
